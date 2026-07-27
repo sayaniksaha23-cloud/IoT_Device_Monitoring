@@ -1,0 +1,4 @@
+data/raw/sensor_data.txt
+data/processed/*.csv
+models/*.pkl
+latest_data.json
