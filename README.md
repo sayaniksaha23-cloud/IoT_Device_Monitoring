@@ -221,9 +221,9 @@ Before running the project, make sure you have the following installed:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/sayaniksaha23-cloud/IOT-Project
+git clone https://github.com/sayaniksaha23-cloud/IoT_Device_Monitoring
 
-cd <repository-name>
+cd <IoT_Device_Monitoring>
 ```
 
 ---
