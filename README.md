@@ -55,7 +55,7 @@ A short demonstration of the complete system is available below.
 
 ##🏛️ Architecture
 
-
+```
 Intel Berkeley Dataset
         │
         ▼
@@ -87,6 +87,7 @@ Live Prediction
         │
         ▼
 Streamlit Dashboard
+```
 
 ## 📂 Project Structure
 
